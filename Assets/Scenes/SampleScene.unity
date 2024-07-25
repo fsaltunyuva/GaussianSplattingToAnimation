@@ -411,6 +411,14 @@ PrefabInstance:
       propertyPath: GroundLayers.m_Bits
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6341998657737914591, guid: 212907312655a4443a025a304442c17c, type: 3}
+      propertyPath: m_Height
+      value: 2.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 6341998657737914591, guid: 212907312655a4443a025a304442c17c, type: 3}
+      propertyPath: m_Center.y
+      value: 1.09
+      objectReference: {fileID: 0}
     - target: {fileID: 7888303496483045073, guid: 212907312655a4443a025a304442c17c, type: 3}
       propertyPath: m_IsActive
       value: 0
